@@ -1,0 +1,8 @@
+Code-Review+2: Ronald Bradford <ronald.bradford@gmail.com>
+Workflow+1: Ronald Bradford <ronald.bradford@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Mon, 11 Jul 2016 15:26:37 +0000
+Reviewed-on: https://review.openstack.org/339924
+Project: openstack/deb-oslo.i18n
+Branch: refs/heads/master
