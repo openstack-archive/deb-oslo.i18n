@@ -1,0 +1,9 @@
+Code-Review+2: Ronald Bradford <ronald.bradford@gmail.com>
+Code-Review+2: Davanum Srinivas (dims) <davanum@gmail.com>
+Workflow+1: Davanum Srinivas (dims) <davanum@gmail.com>
+Verified+2: Jenkins
+Submitted-by: Jenkins
+Submitted-at: Fri, 25 Mar 2016 04:47:14 +0000
+Reviewed-on: https://review.openstack.org/297377
+Project: openstack/deb-oslo.i18n
+Branch: refs/heads/stable/mitaka
